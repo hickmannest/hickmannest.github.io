@@ -15,6 +15,7 @@ body {
 
   font-family: unquote(map-get($bodytype, font-family));
   font-style: normal;
+  font-size: 0.5em;
   font-weight: map-get($bodytype, regular);
   line-height: 2rem;
 }
