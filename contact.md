@@ -8,14 +8,14 @@ excerpt: "Contact information for Hickman NEST"
 aside: true
 ---
 
-The Hickman Nest
-c/o Hickman Elementary School
-10850 Montongo Street
-San Diego, CA 92126
+The Hickman Nest  
+c/o Hickman Elementary School  
+10850 Montongo Street  
+San Diego, CA 92126  
 
-E-mail: hickmannest@gmail.com
-School Website: [hickman.sandiegounified.org](https://hickman.sandiegounified.org/)
-Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)
+E-mail: hickmannest@gmail.com  
+School Website: [hickman.sandiegounified.org](https://hickman.sandiegounified.org/)  
+Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)  
 
 ### Contact form
 
