@@ -1,7 +1,7 @@
 ---
 title: Contact
 feature_text: |
-  ## Contact
+  ### Contact
   Contact information for Hickman NEST
 feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: "Contact information for Hickman NEST"

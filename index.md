@@ -1,7 +1,7 @@
 ---
 title: About Hickman NEST
 feature_text: |
-  ## Hickman NEST
+  ### Hickman NEST
   Nurturing and Encouraging Students Together
 feature_image: '/assets/learning_crop2_1300x400.jpg'
 excerpt: Hickman NEST is an independent organization of parents, teachers, and members
@@ -10,7 +10,7 @@ excerpt: Hickman NEST is an independent organization of parents, teachers, and m
 ---
 Hickman NEST is an independent organization of parents, teachers, and members of the community supporting Hickman Elementary School in San Diego, CA. We bring parents, community, and school personnel together to best _SERVE OUR STUDENTS_.
 
-## September 2022
+### September 2022
 
 * Fri-02-Sep: Coffee with the Principal, 8:30-9:30am (virtual, [info](https://drive.google.com/file/d/1m74OJIXRmNw8GsWVgW9sqbbm8qnIuxTg/view))
 * Mon-05-Sep: Labor Day, No School

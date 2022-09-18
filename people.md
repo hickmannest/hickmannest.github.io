@@ -1,7 +1,7 @@
 ---
 title: People
 feature_text: |
-  ## People
+  ### People
   Contributors to the Hickman NEST
 feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: The Hickman NEST is comprised of and governed by a Board of Directors, all
