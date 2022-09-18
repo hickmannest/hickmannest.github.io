@@ -11,7 +11,7 @@ html {
 
 // Site-wide base styles.
 body {
-  @include fontsize(iota, all);
+  @include fontsize(theta, all);
 
   font-family: unquote(map-get($bodytype, font-family));
   font-style: normal;
@@ -68,37 +68,37 @@ a {
 
   // Heading level 1.
   h1, .alpha {
-    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
+    @include sassline($fontsize: gamma, $font: $headingtype, $lineheight: 3, $below: 1, $breakpoint: all);
   }
 
   // Heading level 2.
   h2, .beta {
-    @include sassline(beta, $headingtype, 3, 1, all);
+    @include sassline(delta, $headingtype, 3, 1, all);
   }
 
   // Heading level 3.
   h3, .gamma {
-    @include sassline(gamma, $headingtype, 3, 1, all);
+    @include sassline(epsilon, $headingtype, 3, 1, all);
   }
 
   // Heading level 4.
   h4, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+    @include sassline(zeta, $headingtype, 2, 0, all);
   }
 
   // Heading level 5.
   h5, .epsilon {
-    @include sassline(epsilon, $headingtype, 2, 0, all);
+    @include sassline(eta, $headingtype, 2, 0, all);
   }
 
   // Heading level 6.
   h6, .zeta {
-    @include sassline(zeta, $headingtype, 2, 0, all);
+    @include sassline(theta, $headingtype, 2, 0, all);
   }
 
   // Lists.
   ul, ol {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include baseline(theta, $bodytype, 2, 2, all);
 
     li {
       font-feature-settings: 'kern', 'onum', 'liga';
@@ -189,7 +189,7 @@ a {
 
   // Definition lists.
   dl {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include baseline(theta, $bodytype, 2, 2, all);
 
     dt, dd {
       font-feature-settings: 'kern', 'onum', 'liga';
@@ -240,7 +240,7 @@ a {
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(theta, all);
+    @include fontsize(iota, all);
 
     font-family: unquote(map-get($headingtype, font-family));
     font-style: normal;
@@ -252,7 +252,7 @@ a {
   }
 
   .caption {
-    @include baseline(theta, $headingtype, 2, 2, all);
+    @include baseline(iota, $headingtype, 2, 2, all);
 
     color: $captionColour;
   }
@@ -286,7 +286,7 @@ a {
 
       @for $i from 2 through $breakpoints-limit {
         $get-scale: map-get($modular-scale, scale-#{$i - 1});
-        $get-size: map-get($get-scale, zeta);
+        $get-size: map-get($get-scale, theta);
         $rootsize: nth($sizes, $i);
         $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
         $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
@@ -332,7 +332,7 @@ a {
   }
 
   code {
-    @include fontsize(theta, all);
+    @include fontsize(iota, all);
 
     line-height: 1rem;
   }
