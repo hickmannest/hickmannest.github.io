@@ -109,8 +109,8 @@ a {
       }
 
       ol, ul {
-        padding-top: 1rem;
-        margin-bottom: 1rem;
+        padding-top: 0.5rem;
+        margin-bottom: 0.5rem;
         margin-left: 2rem;
       }
     }
@@ -278,8 +278,8 @@ a {
       $get-scale: map-get($modular-scale, scale-0);
       $get-size: map-get($get-scale, zeta);
       $rootsize: nth($sizes, 1);
-      $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-      $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+      $baseline-shift: #{(($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)/2};
+      $baseline-push: #{(3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001))/2};
 
       margin-bottom: #{$baseline-push}rem;
       padding-bottom: #{$baseline-shift}rem;
@@ -288,8 +288,8 @@ a {
         $get-scale: map-get($modular-scale, scale-#{$i - 1});
         $get-size: map-get($get-scale, theta);
         $rootsize: nth($sizes, $i);
-        $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-        $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+        $baseline-shift: #{(($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)/2};
+        $baseline-push: #{(3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001))/2};
 
         @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
           margin-bottom: #{$baseline-push}rem;
@@ -323,8 +323,8 @@ a {
 
   pre {
     display: block;
-    margin-bottom: 2rem;
-    padding: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
     white-space: pre;
     white-space: pre-wrap;
     word-break: break-all;
