@@ -3,7 +3,7 @@ title: Contact
 feature_text: |
   ## Contact
   Contact information for Hickman NEST
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: "Contact information for Hickman NEST"
 aside: true
 ---

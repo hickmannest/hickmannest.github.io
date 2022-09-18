@@ -1,9 +1,9 @@
 ---
 title: Fundraising
 feature_text: |
-  ## Fundraising  
+  ## Fundraising
   Donations to support Hickman Elementary
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: ""
 aside: true
 ---
@@ -13,7 +13,7 @@ aside: true
 We want every Hickman Elementary family to know that we appreciate monetary donations of *any* kind. We know there are some people who can give a lot and others who cannot. Please know that you can ask family, friends, etc. to support by donating using [Square](https://hickman-nest.square.site) or to send in cash/check to the school. Please use the form below. All donations are tax deductible and a tax letter will be issued.
 
 The more we all give, the more the The NEST can give back to the Hickman Elementary community! If you have any questions, please contact the Hickman NEST Treasurer.
- 
+
 Thank you for your support! You are making a difference in every student's life at HICKMAN ELEMENTARY!
 
 (Please ask your employer about charitable donation matching. See Corporate Matching List below.)

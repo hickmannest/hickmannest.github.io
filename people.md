@@ -3,7 +3,7 @@ title: People
 feature_text: |
   ## People
   Contributors to the Hickman NEST
-feature_image: https://picsum.photos/2560/600?image=873
+feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: The Hickman NEST is comprised of and governed by a Board of Directors, all
   of whom have children currently attending Hickman.
 aside: true
