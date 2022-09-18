@@ -1,0 +1,12 @@
+<nav class="nav  nav--social">
+  <iframe name="f1228dbb71c06e8" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none; visibility: visible; width: 347px; height: 818px;" src="https://www.facebook.com/v2.4/plugins/page.php?adapt_container_width=true&amp;app_id=304553036307597&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df57c59674bc484%26domain%3Dwww.hickmannest.com%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.hickmannest.com%252Ffa29fffe71545c%26relation%3Dparent.parent&amp;container_width=0&amp;height=818&amp;hide_cover=false&amp;href=http%3A%2F%2Fwww.facebook.com%2FTheHickmanNEST&amp;locale=en_US&amp;sdk=joey&amp;show_facepile=true&amp;show_posts=true&amp;width=347" class="" width="347px" height="818px" frameborder="0"></iframe>
+  <br>
+  {% for link in site.social_links %}
+    {% if link[1] != blank %}
+      {% assign id = link[0] | downcase %}
+      <a href="{{ link[1] }}">
+        {% include icon.html id=id title=id %}
+      </a>
+    {% endif %}
+  {% endfor %}
+</nav>
