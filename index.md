@@ -10,7 +10,7 @@ excerpt: Hickman NEST is an independent organization of parents, teachers, and m
 ---
 Hickman NEST is an independent organization of parents, teachers, and members of the community supporting Hickman Elementary School in San Diego, CA. We bring parents, community, and school personnel together to best _SERVE OUR STUDENTS_.
 
-### September 2022
+#### September 2022
 
 * Fri-02-Sep: Coffee with the Principal, 8:30-9:30am (virtual, [info](https://drive.google.com/file/d/1m74OJIXRmNw8GsWVgW9sqbbm8qnIuxTg/view))
 * Mon-05-Sep: Labor Day, No School
@@ -22,7 +22,7 @@ Hickman NEST is an independent organization of parents, teachers, and members of
 * Mon-26-Sep thru Fri-30-Sep: Scholastic Book Fair ([info](http://track.spe.schoolmessenger.com/f/a/jOv6lyw05zED_00WEs0OrQ\~\~/AAAAAQA\~/RgRk_KaVP0R1aHR0cHM6Ly9tc2cuc2Nob29sbWVzc2VuZ2VyLmNvbS9tLz9zPUFhanNEelN2NUhZJm1hbD05Y2MwNmJhMDIwNzg2YWVmN2YxYTQ0Yzg5Y2ViMzk1NDFkOGI3ODkxYjE2YTYzN2E1ZjFlMDQ2MWI0OThmMGIzVwdzY2hvb2xtQgpjFxVzG2No6KRBUhNyamMuYWRtaW5AZ21haWwuY29tWAQAAAAB))
 * Thu-29-Sep: Back-to-School Family Dance, 5:30-7:30pm
 
-## Super Pledge Drive
+#### Super Pledge Drive
 
 If you dread selling wrapping paper, chocolate bars, etc., the SUPER PLEDGE is for _YOU!!_ Make your donation now so we don't have to do these fundraisers.
 
