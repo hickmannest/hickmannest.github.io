@@ -30,6 +30,6 @@ Check the company match sheet under Fundraising to see if your company will matc
 
 (Donations are accepted all year.)
 
-### Make a Donation
+#### Make a Donation
 
 * [Square](https://hickman-nest.square.site)
