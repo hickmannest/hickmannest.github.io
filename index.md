@@ -14,7 +14,7 @@ Hickman NEST is an independent organization of parents, teachers, and members of
 
 * Wed-05-Oct: Picture Day, (Absentee Make-Ups - Oct. 14)
 * Fri-07-Oct: Hawk Time Family Friday, 8:00-9:00am, Coffee with the Principal 9:00-9:30am
-* Sat-15-Oct: Fall Festival
+* Sat-15-Oct: Fall Festival ([Sign Up For Trunk or Treat Here](https://docs.google.com/forms/d/e/1FAIpQLSdCvTPFrh96CBlmjeSN7IWnhC5XK8vPQmJ6LfuIq6tRpo8AGQ/viewform))
 * Thurs-19-Oct: Early Dismissal 12:25pm. Staff Professional Development
 * Fri-21-Oct: Student Leadership Assembly, 8:00-8:30am
 
