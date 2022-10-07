@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: people.md
+  label: People
+  match: "**/*"
+- type: document
   path: events.md
   label: Events
-  match: "**/*"
 - type: document
   path: index.md
   label: Front Page
