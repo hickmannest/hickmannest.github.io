@@ -10,11 +10,11 @@ aside: true
 ---
 #### Descriptions
 
-1. Fall Festival with Trunk or Treat: Participants go and bring their cars to a central location, usually a parking lot (for obvious reasons). The drivers and their families decorate their cars for Halloween, sometimes creating elaborate scenes out of their trunks. Then kids walk from vehicle to vehicle, collecting candy the way they would during a normal trick-or-treating outing.
+1. Fall Festival with Trunk or Treat: Participants go and bring their cars to a central location, usually a parking lot (for obvious reasons). The drivers and their families decorate their cars for Halloween, sometimes creating elaborate scenes out of their trunks. Then kids walk from vehicle to vehicle, collecting candy the way they would during a normal trick-or-treating outing. [Sign Up For Trunk or Treat Here](https://docs.google.com/forms/d/e/1FAIpQLSdCvTPFrh96CBlmjeSN7IWnhC5XK8vPQmJ6LfuIq6tRpo8AGQ/viewform)!
 
 #### Calendar
 
 <!--/span-->
 <div class="span9">
-	<iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=hickmannest.web%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&src=hickmannest.web%40gmail.com&color=%231B887A&ctz=America%2FLos_Angeles" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
