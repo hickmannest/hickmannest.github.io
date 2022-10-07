@@ -7,7 +7,6 @@ sections:
 - type: document
   path: people.md
   label: People
-  match: "**/*"
 - type: document
   path: events.md
   label: Events

@@ -15,28 +15,10 @@ The Hickman NEST is comprised of and governed by a Board of Directors, all of wh
 
 We invite you to attend the meetings to get involved!
 
-- President: Ashley Agustin
-- Vice President: Jill Dumbauld Nery
-- Treasurer: Cheri Chandler
-- Secretary: Melissa Berry
-
-#### Committee Chairs (2022-2023)
-
-- Running Club: Jill Dumbauld Nery
-- Book Fairs: TBD
-- Fall Festival: Sydney
-- Dine-Out Fundraisers: Amy Dichoso
-- Fifth Grade Committee: Melissa Berry, Shannon, Patty
-- Social Media: Consuelo Portela
-- Web: [Ryan Cassidy](https://bold-fusion.github.io), [Lisa Autus](https://github.com/lisaautus)
-- Yearbook: Marlon
-- Dad's Committee: Arnold
-- Heritage Night: Jill Dumbauld Nery
-- Garden Club: Valerie
-- Military: Melissa Berry
-- Square1 Art: Katheryn, Melissa Berry
-- Hospitality: TBD
-- Family Engagement Liason: TBD
+* President: Ashley Agustin
+* Vice President: Jill Dumbauld Nery
+* Treasurer: Cheri Chandler
+* Secretary: Melissa Berry
 
 #### Volunteers for 2022-2023
 
