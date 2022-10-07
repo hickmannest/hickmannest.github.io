@@ -8,7 +8,7 @@ excerpt: Have fun and support Hickman Elementary at one of our events!
 aside: true
 
 ---
-#### Event Descriptions
+#### Descriptions
 
 1. Fall Festival with Trunk or Treat: Participants go and bring their cars to a central location, usually a parking lot (for obvious reasons). The drivers and their families decorate their cars for Halloween, sometimes creating elaborate scenes out of their trunks. Then kids walk from vehicle to vehicle, collecting candy the way they would during a normal trick-or-treating outing.
 
