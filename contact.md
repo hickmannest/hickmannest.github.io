@@ -17,10 +17,6 @@ E-mail: hickmannest@gmail.com
 School Website: [hickman.sandiegounified.org](https://hickman.sandiegounified.org/)  
 Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)  
 
-### Contact form
-
-{% include site-form.html %}
-
 ### Map
 
 {% include map.html id="1SESYLfSgg_Lylxr5_ZwjHL5b4I8k-qs" title="Hickman Elementary Map" %}
