@@ -19,6 +19,12 @@ The Hickman NEST is governed by a Board of Directors who are nominated and voted
 * Treasurer: Cheri Chandler
 * Secretary: Jill Dumbauld Nery
 
+#### Contact
+
+E-mail: hickmannest@gmail.com  
+Facebook: [www.facebook.com/TheHickmanNEST](https://www.facebook.com/TheHickmanNEST)  
+School Website: [hickman.sandiegounified.org](https://hickman.sandiegounified.org/)  
+
 #### Make a Donation
 
 * [Square](https://hickman-nest.square.site)
