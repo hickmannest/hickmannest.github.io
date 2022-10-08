@@ -11,9 +11,8 @@ sections:
   path: events.md
   label: Events
 - type: document
-  path: fundraising.ms
+  path: fundraising.md
   label: Fundraising
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
