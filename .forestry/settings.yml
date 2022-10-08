@@ -5,20 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: people.md
-  label: People
+  path: index.md
+  label: Home
 - type: document
   path: events.md
   label: Events
 - type: document
-  path: index.md
-  label: Front Page
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+  path: fundraising.ms
+  label: Fundraising
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
