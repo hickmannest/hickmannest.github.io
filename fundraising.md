@@ -1,8 +1,8 @@
 ---
 title: Fundraising
 feature_text: |
-  ### Fundraising
-  Donations to support Hickman Elementary
+  ### &nbsp;Fundraising&nbsp;
+  &nbsp;Donations to support Hickman Elementary&nbsp;
 feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: ''
 aside: true
