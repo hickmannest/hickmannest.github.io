@@ -3,7 +3,7 @@ title: About Hickman NEST
 feature_text: |
   ### Hickman NEST
   Nurturing and Encouraging Students Together
-feature_image: "/assets/hickman_mural_crop_1267_400.png"
+feature_image: "/assets/hickman_mural_crop2_1267_400.png"
 excerpt: Hickman NEST is an independent organization of parents, teachers, and members
   of the community supporting Hickman Elementary School in San Diego, CA.
 
