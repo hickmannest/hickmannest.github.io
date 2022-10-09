@@ -1,8 +1,8 @@
 ---
 title: Events
 feature_text: |
-  ### &nbsp; Events &nbsp;
-  &nbsp; Happenings at Hickman Elementary and the NEST &nbsp;
+  ### &nbsp;Events&nbsp;
+  &nbsp;Happenings at Hickman Elementary and the NEST&nbsp;
 feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: Have fun and support Hickman Elementary at one of our events!
 aside: true
