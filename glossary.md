@@ -1,7 +1,7 @@
 ---
 title: Glossary
 feature_text: |
-  ### &nbsp;Events&nbsp;
+  ### &nbsp;Glossary&nbsp;
   &nbsp;Descriptions of Common NEST Terms&nbsp;
 feature_image: "/assets/learning2_1267_400.jpg"
 excerpt: This is what's what in the Hickman NEST
