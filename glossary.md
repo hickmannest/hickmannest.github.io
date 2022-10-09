@@ -8,7 +8,6 @@ excerpt: This is what's what in the Hickman NEST
 aside: true
 
 ---
-#### Descriptions
 
  1. **Classroom/NEST Liaison:** The Classroom/NEST Liaison will facilitate communications from the NEST to the Classroom teachers and families. Teachers may also ask this volunteer to disseminate information to classroom contacts.
  2. **Dad's Committee:** Group of Dads supporting the Hickman community by partnering with the NEST to increase parent and family involvement.
@@ -19,4 +18,4 @@ aside: true
  7. **Military Committee:** Oversees and plans the week of the Military Child.
  8. **Running Club:** Twice weekly opportunity to run on campus before school. Students earn awards for reaching various milestones. Parent volunteer managed.
  9. **Square1 Art:** Raise funds by purchasing a variety of different items with your students' art work on it. Online only.
- 10. **5th Grade Committee:** Responsible for fundraising and planning of all 5th grade activities, including: celebrations, promotion ceremony, end of year field trip, etc.
+10. **5th Grade Committee:** Responsible for fundraising and planning of all 5th grade activities, including: celebrations, promotion ceremony, end of year field trip, etc.

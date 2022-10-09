@@ -16,7 +16,6 @@ sections:
 - type: document
   path: glossary.md
   label: Glossary
-  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
