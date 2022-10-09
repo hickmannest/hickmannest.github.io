@@ -123,6 +123,8 @@ navigation_header:
   url: /events/
 - title: Fundraising
   url: /fundraising/
+- title: Glossary
+  url: /glossary/
 - title: Search
   url: /search/
 
