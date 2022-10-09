@@ -8,7 +8,6 @@ excerpt: Have fun and support Hickman Elementary at one of our events!
 aside: true
 
 ---
-#### Descriptions
 
  1. **Back to School Night (Sep.):** Opportunity for parents and caregivers to meet the teachers and learn about their classroom structure and expectations. Adult only event.
  2. **NEST Meeting:** The parent/teacher organization meetings. The board meets monthly and they host open general sessions three times per school year.
