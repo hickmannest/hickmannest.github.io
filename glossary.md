@@ -8,7 +8,6 @@ excerpt: This is what's what in the Hickman NEST
 aside: true
 
 ---
-
  1. **Classroom/NEST Liaison:** The Classroom/NEST Liaison will facilitate communications from the NEST to the Classroom teachers and families. Teachers may also ask this volunteer to disseminate information to classroom contacts.
  2. **Dad's Committee:** Group of Dads supporting the Hickman community by partnering with the NEST to increase parent and family involvement.
  3. **Facilities/Beautification:** Oversee the school grounds and partner with the school and NEST to improve areas of concern. Preferred to have 1-2 beautification dayers per year (Fall & Spring).
