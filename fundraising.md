@@ -18,7 +18,7 @@ Super Pledge is our largest fundraiser of the school year. We kick it off at the
 
 * [Super Pledge Site](https://hickman-nest.square.site "Super Pledge Site")
 
-#### Family Dine-Out
+#### Family Dine-Outs
 
 The NEST partners with local restaurants, presenting an opportunity for raising money through everyday dollars you spend on dining out. Keep and eye on Dojo and Peach Jar for flyers and be sure to share them with family & friends!
 
