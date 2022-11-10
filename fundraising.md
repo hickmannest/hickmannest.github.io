@@ -10,8 +10,6 @@ aside: true
 ---
 Throughout the year the NEST runs a variety of fundraisers to support the educational and enrichment needs of all Hickman Students. We want every Hickman Elementary family to know that we appreciate monetary donations of _any_ kind. We know there are some people who can give a lot and others who cannot.
 
-Donate online now through [Square](https://hickman-nest.square.site)
-
 #### Super Pledge Campaign (2022-2023)
 
 Super Pledge is our largest fundraiser of the school year. We kick it off at the start of the year and make a push to reach our goal by early Fall, however donations are accepted all year long. Families can donate any dollar amount they are able and Hickman receives 100% of the funds. Corporate matching is offered for this fundraiser.
