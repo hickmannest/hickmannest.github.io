@@ -8,6 +8,11 @@ excerpt: Have fun and support Hickman Elementary at one of our events!
 aside: true
 
 ---
+##### Calendar
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 133.3333%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"> <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="[https://www.canva.com/design/DAFI-4EeFZU/view?embed](https://www.canva.com/design/DAFI-4EeFZU/view?embed "https://www.canva.com/design/DAFI-4EeFZU/view?embed")" allowfullscreen="allowfullscreen" allow="fullscreen"> </iframe> </div> <a href="[https://www.canva.com/design/DAFI-4EeFZU/view?utm_content=DAFI-4EeFZU&utm_campaign=designshare&utm_medium=embeds&utm_source=link](https://www.canva.com/design/DAFI-4EeFZU/view?utm_content=DAFI-4EeFZU&utm_campaign=designshare&utm_medium=embeds&utm_source=link "https://www.canva.com/design/DAFI-4EeFZU/view?utm_content=DAFI-4EeFZU&utm_campaign=designshare&utm_medium=embeds&utm_source=link")" target="_blank" rel="noopener">Year at a Glance School Year Edition Poster</a> by Jill Nery
+
+##### Event Descriptions
 
  1. **Back to School Night (Sep.):** Opportunity for parents and caregivers to meet the teachers and learn about their classroom structure and expectations. Adult only event.
  2. **NEST Meeting:** The parent/teacher organization meetings. The board meets monthly and they host open general sessions three times per school year.
@@ -21,14 +26,3 @@ aside: true
 10. **Apex Fun Run:** Second largest fundraiser of the year. Multi week leadership program leading up to a jog-a-thon style fun run for the students. Encourages student leadership and rewards physical activity. Very popular!
 11. **Open House/Heritage Night (Spring):** An opportunity for families to visit the classrooms and see their student(s) work. Alongside classroom visits, we will set up various booths celebrating diverse cultures and their foods/traditions. More info and signups to be sent closer to event time.
 12. **Dine outs:** Partnerships with local restaurants for specific dates where Hickman will get a % back on all purchases made when referencing Hickman Elementary.
-
-#### Calendar
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 133.3333%;
-padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
-border-radius: 8px; will-change: transform;">
-<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-src="https://www.canva.com/design/DAFI-4EeFZU/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-</iframe>
-</div>
-<a href="https://www.canva.com/design/DAFI-4EeFZU/view?utm_content=DAFI-4EeFZU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Year at a Glance School Year Edition Poster</a> by Jill Nery
