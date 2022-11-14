@@ -18,11 +18,12 @@ Super Pledge is our largest fundraiser of the school year. We kick it off at the
 
 #### Family Dine-Outs
 
-The NEST partners with local restaurants, presenting an opportunity for raising money through everyday dollars you spend on dining out. Keep and eye on Dojo and Peach Jar for flyers and be sure to share them with family & friends!
+The NEST partners with local restaurants, presenting an opportunity for raising money through everyday dollars you spend on dining out. Keep an eye on Dojo and Peach Jar for flyers and be sure to share them with family & friends!
 
 #### Shopping Programs
 
 You can support Hickman through everyday purchases through the following programs:
 
 * [AmazonSmile](https://smile.amazon.com): AmazonSmile donates up to 0.5% of all qualifying purchases to Hickman Elementary!
+* [Minted Fundraising Program](https://www.minted.com/ "Minted Fundraising Program"): Enjoy 20% off Minted stationary & custom gifts with 15% of each purchase coming back to Hickman. Use code: FUNDRAISEHICKMANNEST
 * [Box Tops for Education](https://www.boxtops4education.com): Add them to the app
