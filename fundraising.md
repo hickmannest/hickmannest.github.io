@@ -12,9 +12,9 @@ Throughout the year the NEST runs a variety of fundraisers to support the educat
 
 #### Super Pledge Campaign (2022-2023)
 
-Super Pledge is our largest fundraiser of the school year. We kick it off at the start of the year and make a push to reach our goal by early Fall, however donations are accepted all year long. Families can donate any dollar amount they are able and Hickman receives 100% of the funds. Corporate matching is offered for this fundraiser.
+Super Pledge is our largest fundraiser of the school year. We kick it off at the start of the year and make a push to reach our goal by early Fall, however donations are accepted all year long. Families can donate any dollar amount they are able, and Hickman receives 100% of the funds. Corporate matching is offered for this fundraiser.
 
-* [Super Pledge Site](https://hickman-nest.square.site "Super Pledge Site")
+[Super Pledge Site](https://hickman-nest.square.site "Super Pledge Site")
 
 #### Family Dine-Outs
 
