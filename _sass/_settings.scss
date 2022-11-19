@@ -13,24 +13,21 @@ $focusColour: #fa407a !default;
 $captionColour: #a8adac !default;
 $white: #ffffff !default;
 
-// Typography
-* {
-  font-variant-ligatures: none;
-}
-
 $bodytype: (
   font-family: '"Calibri", sans-serif',
   regular: 400,
   bold: 700,
   italic: italic,
-  cap-height: 0.75
+  cap-height: 0.75,
+  font-varian-ligatures: none
 ) !default;
 
 $headingtype: (
   font-family: '"Calibri", sans-serif',
   regular: 400,
   bold: 700,
-  cap-height: 0.75
+  cap-height: 0.75,
+  font-variant-ligatures: none
 ) !default;
 
 $monospacetype: (
