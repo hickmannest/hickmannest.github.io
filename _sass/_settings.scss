@@ -19,7 +19,7 @@ $bodytype: (
   bold: 700,
   italic: italic,
   cap-height: 0.75,
-  font-variant-ligatures: none
+  font-variant-ligatures: no-common-ligatures
 ) !default;
 
 $headingtype: (
@@ -27,7 +27,7 @@ $headingtype: (
   regular: 400,
   bold: 700,
   cap-height: 0.75,
-  font-variant-ligatures: none
+  font-variant-ligatures: no-common-ligatures
 ) !default;
 
 $monospacetype: (
