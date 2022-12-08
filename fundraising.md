@@ -24,6 +24,7 @@ The NEST partners with local restaurants, presenting an opportunity for raising 
 
 You can support Hickman through everyday purchases through the following programs:
 
+* [1st Place Spiritwear](https://1stplace.sale/12165): Shop for your Hickman Spirit items to wear on spirit days with a % of the funds going back to Hickman Elementary.
 * [AmazonSmile](https://smile.amazon.com): AmazonSmile donates up to 0.5% of all qualifying purchases to Hickman Elementary!
 * [Minted Fundraising Program](https://www.minted.com/ "Minted Fundraising Program"): Enjoy 20% off Minted stationary & custom gifts with 15% of each purchase coming back to Hickman. Use code: FUNDRAISEHICKMANNEST
-* [Box Tops for Education](https://www.boxtops4education.com): Add them to the app
+* [Box Tops for Education](https://www.boxtops4education.com): Add them to the app.
